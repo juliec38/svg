@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <symbol id="backward" viewBox="-125 0 210 290">
+    <title> Fast Backward</title>
+    <g id="g8" stroke-width="1.7" transform="translate(-75.508 -91.869)">
+      <path id="path2" d="M106.897 118.999l8.535-4.66-.232 9.72z" transform="matrix(.87587 -.004 .00604 1.07006 12.748 -7.305)"/>
+      <path id="path4" d="M96.746 119.4l8.219-4.746v9.49z" transform="matrix(.86203 0 0 .97097 15.025 3.82)"/>
+      <path id="path6" fill="none" d="M97.028 114.114v11.907M85.53 100.55h39.56v38.49H85.53z"/></g></symbol>
+
+      <symbol id="forward" viewBox="-76 -3 210 290">
+        <title> Fast Forward </title>
+        <g id="g24" transform="translate(-11.64 -93.442)">
+          <path id="path18" stroke-width="4" d="M43.699 115.925l-.1 3.532-3.009-1.852z" transform="matrix(.55877 .90609 -.89117 .56812 119.458 12.522)"/>
+      <path id="path20" stroke-width="4" d="M33.767 118.063l-3.809 2.199v-4.398z" transform="matrix(1.04385 0 0 1.06102 -2.866 -7.072)"/>
+      <path id="path22" fill="none" stroke-width="1.7" d="M45.452 112.183v11.76M16.57 98.96h39.56v38.75H16.57z"/></g></symbol>
+
+      <symbol id="pause" viewBox="-20 0 210 290">
+        <title> Pause </title>
+        <g id="g6" fill="none" transform="translate(-60.067 -14.238)">
+        <path id="path2" stroke-width="2.06" d="M67.38 23.08h38.16v38.43H67.38z"/>
+        <path id="path4" fill="#000" stroke-width="4" d="M83.607 31.85v21.166m5.479-21.163V53.02"/></g></symbol>
+
+        <symbol id="play" viewBox="35 0 210 290">
+          <title> Play </title>
+          <g id="g6" stroke-width="2" transform="translate(0 -14.472)">
+            <path id="path2" fill="none" d="M8.32 22.59h38.55V61.9H8.32z"/>
+            <path id="path4" d="M20.033 51.807l.081-18.19 15.712 9.165z"/></g></symbol>
+
+        <symbol id="stop" viewBox="-180 -1 210 290">
+          <title> Stop </title>
+          <g id="g6" transform="translate(-96.903 -13.214)">
+            <path id="path2" stroke-width="3.68" d="M117.39 33.77h14.3v13.55h-14.3z"/>
+            <path id="path4" fill="none" stroke-width="2.05" d="M105.1 21.1h38.51v38.51H105.1z"/></g></symbol>
+
+          </svg>
